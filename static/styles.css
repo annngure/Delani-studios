@@ -4,11 +4,28 @@
   .text1 {
     position: absolute;
     color: white;
-    bottom: 10px;
-    right: 20px;
+    top: 10px;
+    right: 200px;
     text-align: center;
     float: center;
   }
   .about{
     text-align: center;
+  }
+  .container_2{
+    position: relative;
+  }
+  .text2{
+    position: absolute;
+    color: white;
+    bottom: 10px;
+    right: 20px;
+    text-align: center;
+    float: center;
+  }
+  .What{
+    text-align: center;
+  }
+  .what>img{
+    
   }
