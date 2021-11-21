@@ -37,9 +37,24 @@
   background-size: cover;
   position: relative;
   }
+ .head{
+  text-align: center;
+  padding-top: 20px;
+  color: white;
+ }
   .container_form{
     text-align: center;
   }
-  #name,#email,#yourmessage{
-    padding-top: 10px;
+  #name,#email{
+    width:500px;
+    height: 30px;
+    border:white;
+    border-width: 10px;
+    opacity: 0.5;
+  
+  }
+  #yourmessage{
+    width:700px;
+    height: 200px;
+    padding-top: 70px;
   }
