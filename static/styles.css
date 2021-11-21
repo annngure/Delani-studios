@@ -51,10 +51,14 @@
     border:white;
     border-width: 10px;
     opacity: 0.5;
+    color: white;
   
   }
   #yourmessage{
     width:700px;
     height: 200px;
-    padding-top: 70px;
+    border:white;
+    border-width: 10px;
+    opacity: 0.5;
+    color: white;
   }
