@@ -5,9 +5,13 @@
     position: absolute;
     color: white;
     top: 10px;
-    right: 200px;
+    right: 400px;
     text-align: center;
-    float: center;
+    padding-top: 60px;
+   
+  }
+  .image{
+    padding-top: 300px;
   }
   .about{
     text-align: center;
