@@ -29,3 +29,17 @@
   .portfolio{
     text-align: center;
   }
+  .bg-img {
+  background-image: url("/home/ann/Desktop/Delani-studio/static/images/c_image.jpg");
+  min-height: 380px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  }
+  .container_form{
+    text-align: center;
+  }
+  #name,#email,#yourmessage{
+    padding-top: 10px;
+  }
