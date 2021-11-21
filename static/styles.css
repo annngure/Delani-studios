@@ -11,7 +11,7 @@
    
   }
   .image{
-    padding-top: 300px;
+    padding-top: 270px;
   }
   .about{
     text-align: center;
@@ -22,10 +22,9 @@
   .text2{
     position: absolute;
     color: white;
-    bottom: 10px;
-    right: 20px;
+    top: 90px;
+    right: 50px;
     text-align: center;
-    float: center;
   }
   .What{
     text-align: center;
