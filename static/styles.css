@@ -32,6 +32,18 @@
   .portfolio{
     text-align: center;
   }
+  .portfolio > h6{
+    font-weight: bold;
+    font-size: large;
+  }
+
+#designone_clickable{
+  display: none;
+}
+#designone_clickable >p{
+  text-align: center;
+}
+
   .bg-img {
   background-image: url("/home/ann/Desktop/Delani-studio/static/images/c_image.jpg");
   min-height: 380px;
