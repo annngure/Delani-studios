@@ -99,7 +99,11 @@
     display: none;
   }
 .media{
-  padding-left: 400px;
+ padding-left: 300px;
+}
+.column{
+  float:left;
+  padding: 10px;
 }
 .footer{
   text-align: center;
