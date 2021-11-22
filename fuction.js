@@ -1,13 +1,4 @@
-//$(document).ready(function(){
-   // $("#one").click(function(){
-     // $("p").toggle();
-   // });
- // });
-//$(document).ready(function(){
-  //$("#pt").hover(function(){
-    //$(this).textBox
-  //})
-//})
+//about us fuction to dispaly
 $(document).ready(function(){
   $("#designone").click(function(){
   $("#designone").hide();
@@ -45,6 +36,5 @@ $("#developmenttwo").click(function(){
       $("#productthree").show();
     });
    
-
 
 })

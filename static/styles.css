@@ -29,6 +29,33 @@
   .What{
     text-align: center;
   }
+  #designone{
+    float: left;
+  }
+  #developmenttwo{
+    float: inline-start;
+  } 
+  #productthree{
+    float: right;
+
+  }
+ 
+  #designone_clickable{
+    display: none;
+
+  }
+  #designone_clickable >p{
+    float:left;
+    text-align: center;
+    display: block;
+  }
+ 
+  #developmenttwo_clickable{
+    display: none;
+  }
+  #productthree_clickable{
+    display: none;
+  }
   .portfolio{
     text-align: center;
   }
@@ -37,12 +64,6 @@
     font-size: large;
   }
 
-#designone_clickable{
-  display: none;
-}
-#designone_clickable >p{
-  text-align: center;
-}
 
   .bg-img {
   background-image: url("/home/ann/Desktop/Delani-studio/static/images/c_image.jpg");
