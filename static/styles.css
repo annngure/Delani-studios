@@ -59,6 +59,7 @@
   }
   .portfolio{
     text-align: center;
+    padding: 10px;
   }
   .portfolio > h6{
     font-weight: bold;
