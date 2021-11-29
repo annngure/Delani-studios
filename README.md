@@ -14,8 +14,7 @@ This is about the codes that i have done and more that i will do ,the site built
 * No server or dependencies needed to run the code.
 
 ## Live link
-
-https://github.com/annngure/Delani-studios
+https://annngure.github.io/Delani-studios/
 ## Known Bugs
 the image might change in size
 
