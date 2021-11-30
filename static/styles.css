@@ -67,7 +67,7 @@
   }
 
   .bg-img {
-  background-image: url("/home/ann/Desktop/Delani-studio/static/images/c_image.jpg");
+  background-image: url("../static/images/c_image.jpg");
   min-height: 380px;
   background-position: center;
   background-repeat: no-repeat;
